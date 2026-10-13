@@ -37,9 +37,18 @@
     </td>
     <td align="center" width="33%">
       <b>Real-time</b><br><br>
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/LiveKit-00C07F?style=for-the-badge" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/webrtc/white" />
+        <img height="48" src="https://cdn.simpleicons.org/webrtc" alt="WebRTC" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/socketdotio/white" />
+        <img height="48" src="https://cdn.simpleicons.org/socketdotio" alt="Socket.IO" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/livekit/white" />
+        <img height="48" src="https://cdn.simpleicons.org/livekit" alt="LiveKit" />
+      </picture>
     </td>
     <td align="center" width="33%">
       <b>AI</b><br><br>
