@@ -15,14 +15,44 @@
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,nodejs,express,nestjs,mongodb,mysql,postgresql,supabase,docker,aws,linux,git&theme=dark&perline=8" alt="Tech stack" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <b>Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <b>Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>DevOps & Cloud</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <b>Real-time</b><br><br>
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/LiveKit-00C07F?style=for-the-badge" />
+    </td>
+    <td align="center" width="33%">
+      <b>AI</b><br><br>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/GPT--4_Vision-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ## Flagship Projects
 
-**VideoDesk — Real-Time Property Inspection Platform** · `Next.js 14` `Express.js` `Socket.IO` `WebRTC` `MongoDB` `AWS S3` `GPT-4 Vision`
-Enterprise SaaS, sole developer: 4 user roles with permission hierarchies, native WebRTC peer-to-peer video, live canvas annotation, in-call recording. GPT-4 Vision damp and mould analyser (5-level severity, UK-standard reports). S3 media pipeline, OTP auth, GDPR-compliant.
+**[VideoDesk](https://github.com/abrarmughal4480/videodesk-showcase) — Real-Time Property Inspection Platform** · `Next.js 14` `Express.js` `Socket.IO` `WebRTC` `MongoDB` `AWS S3` `GPT-4 Vision`
+Enterprise SaaS, sole developer: 4 user roles with permission hierarchies, native WebRTC peer-to-peer video, live canvas annotation, in-call recording. GPT-4 Vision damp and mould analyser (5-level severity, UK-standard reports). S3 media pipeline, OTP auth, GDPR-compliant. *Client work — [public case study](https://github.com/abrarmughal4480/videodesk-showcase), source private.*
 
 **Enterprise LMS + LiveKit Voice Agents** · `NestJS` `TypeScript` `LiveKit` `MongoDB`
 Module-based NestJS LMS with RBAC-secured course access — plus AI voice agents running an STT → LLM → TTS loop inside live WebRTC sessions.
@@ -35,10 +65,6 @@ Enterprise point-of-sale: inventory, multi-party GST billing, partial payments, 
 
 **[Installment & Loan Management App](https://github.com/abrarmughal4480/Installments_App)** · `React Native` `Node.js` `Express.js` `MongoDB`
 Cross-platform mobile app for field agents: installment tracking, loan ledgers, overdue alerts, role-based data isolation, multi-level investment engine.
-
-## Education
-
-**B.Sc. Computer Science** — Riphah International University (2024 – Present) · GPA 3.60/4.0
 
 ## Connect
 
